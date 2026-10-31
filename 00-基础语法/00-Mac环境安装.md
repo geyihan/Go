@@ -22,8 +22,6 @@ brew install go
 ```sh
 ❯ go version
 go version go1.27.3 darwin/arm64
-
-
 ```
 
 ### Windows
